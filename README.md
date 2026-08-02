@@ -57,19 +57,9 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Jihyeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=jiihyeonn&show_icons=true&theme=default&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jiihyeonn&layout=compact&theme=default&hide_border=true)
-
-</div>
-
----
-
-<div align="center">
-
-📫 **nice121223@gmail.com** · 🔗 **[github.com/jiihyeonn](https://github.com/jiihyeonn)**
+### Contact Me 📬  
+- 이메일: ncie121223@gmail.com
+- 블로그: [Tistory]  
+- GitHub: [jiihyeonn]([https://github.com/opmaksim](https://github.com/jiihyeonn))
 
 </div>
