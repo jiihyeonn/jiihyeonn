@@ -1,6 +1,6 @@
 <div align="center">
 
-# 박지현 (Jihyeon Park)
+# 박지현 
 
 **Embedded SW · Firmware Engineer · Linux Device Driver**
 
