@@ -60,6 +60,6 @@
 ### Contact Me 📬  
 - 이메일: ncie121223@gmail.com
 - 블로그: [Tistory]  
-- GitHub: [jiihyeonn]([https://github.com/opmaksim](https://github.com/jiihyeonn))
+- GitHub: [jiihyeonn](https://github.com/jiihyeonn)
 
 </div>
