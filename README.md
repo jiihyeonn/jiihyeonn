@@ -46,7 +46,7 @@
 - 3축 능동형 스마트 짐벌 및 객체 추적 시스템
 
 ### [2. Smart Medicine Dispenser]
-() 
+(https://github.com/jiihyeonn/smart_medicine_despenser) 
 - 스마트 알약 디스펜서 시스템
 
 ### [3. Leak Guard]
