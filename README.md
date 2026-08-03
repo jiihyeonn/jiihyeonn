@@ -41,11 +41,25 @@
 
 ## 💻 Projects
 
-### Embedded Firmware
-- **[3축 능동형 스마트 짐벌 및 객체 추적 시스템]()**
-- **[Smart Medicine Dispenser]()**
-- **[EV 충전 시스템 BMS]()**
-- **[세정 도크 누수 감지 · 안전 제어 시스템]()**
+### [1. Smart Medicine Dispenser]
+() 
+- 3축 능동형 스마트 짐벌 및 객체 추적 시스템
+
+### [2. Smart Medicine Dispenser]
+() 
+- 스마트 알약 디스펜서 시스템
+
+### [3. Leak Guard]
+() 
+- U-Net 기반 누수 감지, 안전 제어 시스템
+
+### [4. Air Handing Unit]
+() 
+- Basys3 기반 스마트 공조기 시스템 개발
+
+### [5. Embedded Device Lifecycle Platform]
+() 
+- 진행 중
 
 ### FPGA / RTL Design
 - **[Basys3 기반 스마트 공조기 (AHU)]()**
