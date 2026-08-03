@@ -41,6 +41,8 @@
 
 ## 💻 Projects
 
+### Embedded
+
 ### [1. Smart Tracking Gimbal]
 () 
 - 3축 능동형 스마트 짐벌 및 객체 추적 시스템
@@ -53,17 +55,19 @@
 (https://github.com/jiihyeonn/Leak_Guard) 
 - U-Net 기반 누수 감지, 안전 제어 시스템
 
-### [4. Air Handing Unit]
-() 
-- Basys3 기반 스마트 공조기 시스템 개발
-
-### [5. Embedded Device Lifecycle Platform]
+### [4. Embedded Device Lifecycle Platform]
 () 
 - 진행 중
 
 ### FPGA / RTL Design
-- **[Basys3 기반 스마트 공조기 (AHU)]()**
-- **[13-Tap FIR Low Pass Filter Design]()**
+
+### [5. Air Handing Unit]
+() 
+- Basys3 기반 스마트 공조기 시스템
+
+- ### [6. 13-Tap FIR Low Pass Filter Design]
+() 
+- Verilog HDL, Synopsys Design Complier, VCS, Verdi
 
 ### Linux / System Programming
 - **[Character Device Driver 구현]()**
