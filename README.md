@@ -43,7 +43,7 @@
 
 ### Embedded
 
-### [1. Smart Tracking Gimbal]
+### [1. 3-Axis Smart Tracking Gimbal]
 () 
 - 3축 능동형 스마트 짐벌 및 객체 추적 시스템
 
