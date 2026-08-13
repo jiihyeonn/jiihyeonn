@@ -5,7 +5,6 @@
 **Embedded SW · Firmware Engineer · Linux Device Driver**
 
 [![Gmail](https://img.shields.io/badge/nice121223@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:nice121223@gmail.com)
-[![Tistory](https://img.shields.io/badge/Tistory-FF5A4A?style=flat-square&logo=Blogger&logoColor=white)]()
 [![GitHub](https://img.shields.io/badge/jiihyeonn-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/jiihyeonn)
 
 </div>
@@ -77,7 +76,6 @@
 
 ### Contact Me 📬  
 - 이메일: ncie121223@gmail.com
-- 블로그: [Tistory]  
 - GitHub: [jiihyeonn](https://github.com/jiihyeonn)
 
 </div>
