@@ -64,9 +64,6 @@
 (https://github.com/jiihyeonn/Air-Handing-Unit) 
 - Basys3 기반 스마트 공조기 시스템
 
-### [6. 13-Tap FIR Low Pass Filter Design]
-() 
-- Verilog HDL, Synopsys Design Complier, VCS, Verdi
 
 ### Linux / System Programming
 - **[Character Device Driver 구현]()**
