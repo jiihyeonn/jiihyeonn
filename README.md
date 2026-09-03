@@ -65,7 +65,7 @@
 
 ### [4. Embedded Device Lifecycle Platform]
 (https://github.com/jiihyeonn/Embedded-Device-Lifecycle-Platform)
-- EVSE - BMS
+- EVSE 펌웨어 업데이트 및 BMS 안전 제어 플랫폼
 
 
 ### FPGA / RTL Design
