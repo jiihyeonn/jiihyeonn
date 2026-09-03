@@ -55,8 +55,8 @@
 - U-Net 기반 누수 감지, 안전 제어 시스템
 
 ### [4. Embedded Device Lifecycle Platform]
-() 
-- 진행 중
+(https://github.com/jiihyeonn/Embedded-Device-Lifecycle-Platform) 
+- 
 
 ### FPGA / RTL Design
 
