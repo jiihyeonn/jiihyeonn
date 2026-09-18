@@ -77,7 +77,6 @@
 
 ### Linux / System Programming
 - **[Character Device Driver 구현]()**
-- **[TCP 멀티클라이언트 서버 (Raspberry Pi)]()**
 
 ---
 
