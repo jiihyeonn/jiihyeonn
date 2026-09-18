@@ -75,7 +75,7 @@
 
 ### 🐧 Linux / System Programming
 
-**[6. Linux Character Device Driver]()**
+**[6. Linux Character Device Driver](https://github.com/jiihyeonn/LEDKEY_DeviceDriver)**
 
 - LED·KEY 제어를 위한 Character Device Driver와 ioctl 기반 User Application 구현
 
