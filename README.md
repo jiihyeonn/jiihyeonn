@@ -49,44 +49,50 @@
 
 ## 💻 Projects
 
-### Embedded
+### 🔧 Embedded Systems
 
-### [1. Embedded Device Lifecycle Platform]
-(https://github.com/jiihyeonn/Embedded-Device-Lifecycle-Platform)
+**[1. Embedded Device Lifecycle Platform](https://github.com/jiihyeonn/Embedded-Device-Lifecycle-Platform)**
+
 - EVSE 펌웨어 업데이트 및 BMS 안전 제어 플랫폼
 
-### [2. Leak Guard]
-(https://github.com/jiihyeonn/Leak_Guard) 
-- U-Net 기반 누수 감지, 안전 제어 시스템
+**[2. Leak Guard](https://github.com/jiihyeonn/Leak_Guard)**
 
-### [3. 3-Axis Smart Tracking Gimbal]
-(https://github.com/jiihyeonn/3-Axis-Smart-Tracking-Gimbal) 
+- U-Net 기반 누수 감지 및 안전 제어 시스템
+
+**[3. 3-Axis Smart Tracking Gimbal](https://github.com/jiihyeonn/3-Axis-Smart-Tracking-Gimbal)**
+
 - 3축 능동형 스마트 짐벌 및 객체 추적 시스템
 
-### [4. Smart Medicine Dispenser]
-(https://github.com/jiihyeonn/smart_medicine_despenser) 
+**[4. Smart Medicine Dispenser](https://github.com/jiihyeonn/smart_medicine_despenser)**
+
 - 스마트 알약 디스펜서 시스템
 
-### [5. STM32 UART CLI]
-()
+**[5. STM32 UART CLI](https://github.com/jiihyeonn/STM32_CLI)**
+
 - UART 명령어 입력·파싱·실행을 지원하는 STM32 CLI 구현
 
-### Linux / System Programming
+---
 
-### [6. Character Device Driver 구현]
-()
+### 🐧 Linux / System Programming
+
+**[6. Linux Character Device Driver]()**
+
 - LED·KEY 제어를 위한 Character Device Driver와 ioctl 기반 User Application 구현
 
-### C
+---
 
-### [7. 2D Obstacle Avoidance Game]
-()
+### 🎮 C Application
+
+**[7. 2D Obstacle Avoidance Game]()**
+
 - C·Raylib 기반 장애물 회피 게임 구조 및 랜덤 패턴 맵 생성
 
-### FPGA / RTL Design
+---
 
-### [8. Air Handing Unit]
-(https://github.com/jiihyeonn/Air-Handing-Unit) 
+### ⚙️ FPGA / RTL Design
+
+**[8. Air Handling Unit](https://github.com/jiihyeonn/Air-Handling-Unit)**
+
 - Basys3 기반 스마트 공조기 시스템
 
 ---
